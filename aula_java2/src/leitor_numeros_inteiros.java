@@ -20,4 +20,3 @@ import java.util.Scanner;
 	
 }
   
-  //https://github.com/JeLudovico/Soma_de_numeros_inteiros.git
